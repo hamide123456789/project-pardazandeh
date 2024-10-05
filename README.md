@@ -10,5 +10,5 @@ tozih project
 click[here](https://www.example.com)to see demo
 
 
-![next1code](image.jpg)
+![next1code](https://www.markdownguide.org/book/))
 
